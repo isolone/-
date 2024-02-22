@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -330,6 +329,5 @@
         <p>Telegram: <a href="https://t.me/elisov_7">@elisov_7</a></p>
     </section>
 
-</body>
 
 </html>
